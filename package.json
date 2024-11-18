@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<KRISHNASON1>.github.io/<portfolio>",
+  "homepage": "https://krishnason1.github.io/portfolio",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
